@@ -1,6 +1,6 @@
 👋 Hi, I’m Gurpreet, you can call me Priti.
 
-👀 I'm a Business Analyst based in New Delhi.  
+👀 I Worked as a  Procurement Specialist in New Delhi.  
 
 ✨ I'm a polyglot with beginner to intermediate level skills in Python, JavaScript, HTML and CCS. 
 
