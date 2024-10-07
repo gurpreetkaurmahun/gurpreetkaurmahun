@@ -5,6 +5,7 @@
 👨‍💻 Previously, I worked as a Junior Software Developer in New Delhi, where I gained hands-on experience building web applications and delivering impactful solutions for business needs.
 
 ✨ I'm a polyglot programmer with skills in:
+
     Languages: C#, Python, JavaScript, HTML, CSS/SASS.
     Frontend: React.js, Bootstrap, UI/UX Design.
     Backend: ASP.NET Core, Node.js, Playwright, RESTful APIs.
