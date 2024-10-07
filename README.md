@@ -1,13 +1,18 @@
-👋 Hi, I’m Gurpreet, you can call me Priti.
+👋 Hi, I’m Gurpreet, but you can call me Priti.
 
-📚 I'm presently pursuing Msc. Software Engineering from University of Westminster.
+📚 I hold an MSc in Software Engineering from the University of Westminster, where I honed my skills in developing scalable software solutions.
 
-👀 I Worked as a  Procurement Specialist in New Delhi.  
+👨‍💻 Previously, I worked as a Junior Software Developer in New Delhi, where I gained hands-on experience building web applications and delivering impactful solutions for business needs.
 
-✨ I'm a polyglot with beginner to intermediate level skills in C#,Python, JavaScript, HTML, CCS, Git, SQL, MongoDB, Unix. 
+✨ I'm a polyglot programmer with skills in:
+    Languages: C#, Python, JavaScript, HTML, CSS/SASS.
+    Frontend: React.js, Bootstrap, UI/UX Design.
+    Backend: ASP.NET Core, Node.js, Playwright, RESTful APIs.
+    Databases: MySQL, MongoDB.
+    Miscellaneous: Bash Scripting, Git (GitHub), Atlassian Tools (Jira, Confluence).
+  
+🌱 I’m always eager to learn something new! Currently, I’m expanding my full-stack web development knowledge through courses on platforms like Udemy and Coursera.
 
-🌱 I'm a keen learner and I am always learning somehting new. I am presently learning full stack web development through online courses such as Udemy and Coursera. On the frontend, I am learning React.js and on the backend, I am learning Express.js with Node.js.
-
-💻 I aspire to become a software developer.
+🚀 I aspire to grow as a software developer, continuously building my expertise and working on innovative projects that make a difference.
 
 📫 Best way to reach me is via email: gurpreet.kmahun@gmail.com
